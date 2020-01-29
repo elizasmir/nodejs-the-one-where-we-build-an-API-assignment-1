@@ -1,0 +1,26 @@
+{
+  "name": "api-assignment-1",
+  "version": "1.0.0",
+  "description": "Inlämningsuppgift 1",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "lowdb": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zocom-christoffer-wallenberg/nodejs-the-one-where-we-build-an-API-assignment-1.git"
+  },
+  "author": "Elizaveta Smirnova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zocom-christoffer-wallenberg/nodejs-the-one-where-we-build-an-API-assignment-1/issues"
+  },
+  "homepage": "https://github.com/zocom-christoffer-wallenberg/nodejs-the-one-where-we-build-an-API-assignment-1#readme"
+}

@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Pure Natural",
+      "type": "food",
+      "price": "100€",
+      "photoUrl": "https://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 2,
+      "name": "Test",
+      "type": "test",
+      "price": "100€",
+      "photoUrl": "https://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 3,
+      "name": "Liza",
+      "type": "human",
+      "price": "100€",
+      "photoUrl": "https://placeimg.com/640/480/animals"
+    }
+  ],
+  "basket": [
+    {
+      "id": 1,
+      "name": "Pure Natural",
+      "type": "food",
+      "price": "100€",
+      "photoUrl": "https://placeimg.com/640/480/animals"
+    }
+  ]
+}
